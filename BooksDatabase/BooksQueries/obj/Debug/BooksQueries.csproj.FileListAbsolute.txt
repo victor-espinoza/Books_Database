@@ -1,0 +1,33 @@
+E:\CECS 475\Lab 4 - Database\BooksDatabase\BooksQueries\bin\Debug\BooksQueries.exe.config
+E:\CECS 475\Lab 4 - Database\BooksDatabase\BooksQueries\obj\Debug\BooksQueries.csprojResolveAssemblyReference.cache
+E:\CECS 475\Lab 4 - Database\BooksDatabase\BooksQueries\obj\Debug\BooksQueries.BooksQueries.resources
+E:\CECS 475\Lab 4 - Database\BooksDatabase\BooksQueries\obj\Debug\BooksQueries.Properties.Resources.resources
+E:\CECS 475\Lab 4 - Database\BooksDatabase\BooksQueries\obj\Debug\BooksQueries.csproj.GenerateResource.Cache
+E:\CECS 475\Lab 4 - Database\BooksDatabase\BooksQueries\bin\Debug\Books.mdf
+E:\CECS 475\Lab 4 - Database\BooksDatabase\BooksQueries\bin\Debug\Books_log.ldf
+E:\CECS 475\Lab 4 - Database\BooksDatabase\BooksQueries\bin\Debug\BooksQueries.exe
+E:\CECS 475\Lab 4 - Database\BooksDatabase\BooksQueries\bin\Debug\BooksQueries.pdb
+E:\CECS 475\Lab 4 - Database\BooksDatabase\BooksQueries\bin\Debug\BookDatabase.dll
+E:\CECS 475\Lab 4 - Database\BooksDatabase\BooksQueries\bin\Debug\EntityFramework.dll
+E:\CECS 475\Lab 4 - Database\BooksDatabase\BooksQueries\bin\Debug\BookDatabase.pdb
+E:\CECS 475\Lab 4 - Database\BooksDatabase\BooksQueries\bin\Debug\EntityFramework.xml
+E:\CECS 475\Lab 4 - Database\BooksDatabase\BooksQueries\obj\Debug\BooksQueries.exe
+E:\CECS 475\Lab 4 - Database\BooksDatabase\BooksQueries\obj\Debug\BooksQueries.pdb
+C:\Users\Victor Espinoza\Documents\Long Beach\Backup Flash Drive Files\March 2017 Backup\CECS 475\Lab 4 - Database\BooksDatabase\BooksQueries\bin\Debug\BooksQueries.exe.config
+C:\Users\Victor Espinoza\Documents\Long Beach\Backup Flash Drive Files\March 2017 Backup\CECS 475\Lab 4 - Database\BooksDatabase\BooksQueries\obj\Debug\BooksQueries.exe
+C:\Users\Victor Espinoza\Documents\Long Beach\Backup Flash Drive Files\March 2017 Backup\CECS 475\Lab 4 - Database\BooksDatabase\BooksQueries\obj\Debug\BooksQueries.pdb
+C:\Users\Victor Espinoza\Documents\Long Beach\Backup Flash Drive Files\March 2017 Backup\CECS 475\Lab 4 - Database\BooksDatabase\BooksQueries\bin\Debug\Books.mdf
+C:\Users\Victor Espinoza\Documents\Long Beach\Backup Flash Drive Files\March 2017 Backup\CECS 475\Lab 4 - Database\BooksDatabase\BooksQueries\bin\Debug\Books_log.ldf
+C:\Users\Victor Espinoza\Documents\Long Beach\Backup Flash Drive Files\March 2017 Backup\CECS 475\Lab 4 - Database\BooksDatabase\BooksQueries\bin\Debug\BooksQueries.exe
+C:\Users\Victor Espinoza\Documents\Long Beach\Backup Flash Drive Files\March 2017 Backup\CECS 475\Lab 4 - Database\BooksDatabase\BooksQueries\bin\Debug\BooksQueries.pdb
+C:\Users\Victor Espinoza\Documents\Long Beach\Backup Flash Drive Files\March 2017 Backup\CECS 475\Lab 4 - Database\BooksDatabase\BooksQueries\bin\Debug\BookDatabase.dll
+C:\Users\Victor Espinoza\Documents\Long Beach\Backup Flash Drive Files\March 2017 Backup\CECS 475\Lab 4 - Database\BooksDatabase\BooksQueries\bin\Debug\EntityFramework.dll
+C:\Users\Victor Espinoza\Documents\Long Beach\Backup Flash Drive Files\March 2017 Backup\CECS 475\Lab 4 - Database\BooksDatabase\BooksQueries\bin\Debug\BookDatabase.pdb
+C:\Users\Victor Espinoza\Documents\Long Beach\Backup Flash Drive Files\March 2017 Backup\CECS 475\Lab 4 - Database\BooksDatabase\BooksQueries\bin\Debug\EntityFramework.xml
+C:\Users\Victor Espinoza\Documents\Long Beach\Backup Flash Drive Files\March 2017 Backup\CECS 475\Lab 4 - Database\BooksDatabase\BooksQueries\obj\Debug\BooksQueries.csprojResolveAssemblyReference.cache
+C:\Users\Victor Espinoza\Documents\Long Beach\Backup Flash Drive Files\March 2017 Backup\CECS 475\Lab 4 - Database\BooksDatabase\BooksQueries\obj\Debug\BooksQueries.BooksQueries.resources
+C:\Users\Victor Espinoza\Documents\Long Beach\Backup Flash Drive Files\March 2017 Backup\CECS 475\Lab 4 - Database\BooksDatabase\BooksQueries\obj\Debug\BooksQueries.Properties.Resources.resources
+C:\Users\Victor Espinoza\Documents\Long Beach\Backup Flash Drive Files\March 2017 Backup\CECS 475\Lab 4 - Database\BooksDatabase\BooksQueries\obj\Debug\BooksQueries.csproj.GenerateResource.Cache
+C:\Users\Victor Espinoza\Documents\Long Beach\Victor's Projects To Upload\Spring 2016\CECS 475\Lab 4 - Database\BooksDatabase\BooksQueries\bin\Debug\BooksQueries.exe.config
+C:\Users\Victor Espinoza\Documents\Long Beach\Victor's Projects To Upload\Spring 2016\CECS 475\Lab 4 - Database\BooksDatabase\BooksQueries\obj\Debug\BooksQueries.exe
+C:\Users\Victor Espinoza\Documents\Long Beach\Victor's Projects To Upload\Spring 2016\CECS 475\Lab 4 - Database\BooksDatabase\BooksQueries\obj\Debug\BooksQueries.pdb
