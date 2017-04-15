@@ -1,0 +1,103 @@
+# Lab_4_Books_Database
+Project Overview:    
+C# project involving databases.    
+    
+This project deals with creating an Entity Data Model from the existing Books database and performing Language Integrated Queries (LINQ) on that database.
+
+The queries performed in this lab are as follows:
+ a) Get a list of all the titles and the authors who wrote them. Sort the result by title.
+ b) Get a list of all the titles and the authors who wrote them. Sort the result by title. For each title sort the authors alphabetically by last name, then first name.
+ c)Get a list of all the authors grouped by title, sorted by title; for a given title sort the author names alphabetically by last name first then first name.
+ 
+
+Dependencies:     
+This project was created using Microsoft Visual Studio Community 2013 for Windows Desktop Version: 12.0.40629.00 Update 5.
+
+Sample Output:    
+
+Titles and Authors (Sorted By Title):
+	Android for Programmers: An App-Driven Approach    -      Paul       Deitel
+	Android for Programmers: An App-Driven Approach    -      Harvey     Deitel
+	Android for Programmers: An App-Driven Approach    -      Abbey      Deitel
+	Android for Programmers: An App-Driven Approach    -      Michael    Morgano
+	C How to Program                                   -      Harvey     Deitel
+	C How to Program                                   -      Paul       Deitel
+	C++ How to Program                                 -      Paul       Deitel
+	C++ How to Program                                 -      Harvey     Deitel
+	Internet & World Wide Web How to Program           -      Harvey     Deitel
+	Internet & World Wide Web How to Program           -      Paul       Deitel
+	Internet & World Wide Web How to Program           -      Abbey      Deitel
+	Java How to Program                                -      Paul       Deitel
+	Java How to Program                                -      Harvey     Deitel
+	Simply Visual Basic 2010                           -      Harvey     Deitel
+	Simply Visual Basic 2010                           -      Paul       Deitel
+	Simply Visual Basic 2010                           -      Abbey      Deitel
+	Visual Basic 2012 How to Program                   -      Abbey      Deitel
+	Visual Basic 2012 How to Program                   -      Paul       Deitel
+	Visual Basic 2012 How to Program                   -      Harvey     Deitel
+	Visual C# 2012 How to Program                      -      Harvey     Deitel
+	Visual C# 2012 How to Program                      -      Paul       Deitel
+	Visual C++ 2008 How to Program                     -      Paul       Deitel
+	Visual C++ 2008 How to Program                     -      Harvey     Deitel
+	Visual C++ 2008 How to Program                     -      Dan        Quirk
+
+Authors and Titles With Authors Sorted for Each Title:
+	Android for Programmers: An App-Driven Approach    -      Abbey      Deitel
+	Android for Programmers: An App-Driven Approach    -      Harvey     Deitel
+	Android for Programmers: An App-Driven Approach    -      Paul       Deitel
+	Android for Programmers: An App-Driven Approach    -      Michael    Morgano
+	C How to Program                                   -      Harvey     Deitel
+	C How to Program                                   -      Paul       Deitel
+	C++ How to Program                                 -      Harvey     Deitel
+	C++ How to Program                                 -      Paul       Deitel
+	Internet & World Wide Web How to Program           -      Abbey      Deitel
+	Internet & World Wide Web How to Program           -      Harvey     Deitel
+	Internet & World Wide Web How to Program           -      Paul       Deitel
+	Java How to Program                                -      Harvey     Deitel
+	Java How to Program                                -      Paul       Deitel
+	Simply Visual Basic 2010                           -      Abbey      Deitel
+	Simply Visual Basic 2010                           -      Harvey     Deitel
+	Simply Visual Basic 2010                           -      Paul       Deitel
+	Visual Basic 2012 How to Program                   -      Abbey      Deitel
+	Visual Basic 2012 How to Program                   -      Harvey     Deitel
+	Visual Basic 2012 How to Program                   -      Paul       Deitel
+	Visual C# 2012 How to Program                      -      Harvey     Deitel
+	Visual C# 2012 How to Program                      -      Paul       Deitel
+	Visual C++ 2008 How to Program                     -      Harvey     Deitel
+	Visual C++ 2008 How to Program                     -      Paul       Deitel
+	Visual C++ 2008 How to Program                     -      Dan        Quirk
+
+Titles grouped by author:
+	Android for Programmers: An App-Driven Approach:
+		Abbey Deitel
+		Harvey Deitel
+		Paul Deitel
+		Michael Morgano
+	C How to Program:
+		Harvey Deitel
+		Paul Deitel
+	C++ How to Program:
+		Harvey Deitel
+		Paul Deitel
+	Internet & World Wide Web How to Program:
+		Abbey Deitel
+		Harvey Deitel
+		Paul Deitel
+	Java How to Program:
+		Harvey Deitel
+		Paul Deitel
+	Simply Visual Basic 2010:
+		Abbey Deitel
+		Harvey Deitel
+		Paul Deitel
+	Visual Basic 2012 How to Program:
+		Abbey Deitel
+		Harvey Deitel
+		Paul Deitel
+	Visual C# 2012 How to Program:
+		Harvey Deitel
+		Paul Deitel
+	Visual C++ 2008 How to Program:
+		Harvey Deitel
+		Paul Deitel
+		Dan Quirk
