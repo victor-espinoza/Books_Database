@@ -1,4 +1,4 @@
-Project Overview:    
+Project Overview:   
 C# project involving databases.    
     
 This project deals with creating an Entity Data Model from the existing Books database and performing Language Integrated Queries (LINQ) on that database.
